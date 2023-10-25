@@ -1,0 +1,2 @@
+# Turkish-Learning
+This code creates a Swing GUI application with two panels - one for learning and another for testing your knowledge of Turkish. Users can switch between these panels using buttons. In the "Learn Turkish" panel, Turkish words and their English translations are displayed. In the "Test Your Knowledge" panel, users can enter translations, and the program checks the correctness of the translations.
